@@ -1,6 +1,5 @@
 ﻿using LaboratoryExceptionHandling;
 
-
 namespace LabExceptionHandling;
 
 class Program
