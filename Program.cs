@@ -1,8 +1,5 @@
 ﻿using LaboratoryExceptionHandling;
-using System.ComponentModel;
-using System.Data.SqlTypes;
-using System.Globalization;
-using System.Security.Cryptography.X509Certificates;
+
 
 namespace LabExceptionHandling;
 
